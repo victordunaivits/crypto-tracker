@@ -13,7 +13,7 @@ https://crypto-app-teal-alpha.vercel.app/
 
 
 <h2> Imagem do projeto </h2>
-<img src="./readme/netflix.gif"style="height: 400px">
+<img src="./readme/crypto.gif"style="height: 400px">
 
 <h2>Pré-requisitos</h2>
 <p>Antes de começar, você vai precisar ter instalado as seguintes ferramentas:</p>
