@@ -2,7 +2,7 @@
 <p>Desenvolvido em ReactJS com integração da API CoinGecko.</p>
 
 <h2>Visite o projeto</h2>
-https://netflix-azure-three.vercel.app/
+https://crypto-app-teal-alpha.vercel.app/
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
